@@ -23,7 +23,7 @@ After signing into [GitHub](https://github.com/) visit the link in **Getting Sta
 
 1. [GitHub](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) Cloning a respository
 
-![](images/assets/GitBash-02.PNG)
+![](assets/images/GitBash-02.PNG)
 
 
 ## Built With
