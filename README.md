@@ -1,8 +1,10 @@
-# Project Title
+# Code Refactor
 
-One Paragraph of project description goes here
+With accessibility being a meaningful but often neglected and underserved aspect of the internet Horiseon has made it a their mission to provide their services to **ALL** patrons. In this project of accessibility for all, we will be using the homepage as the foundation, and cascading it down to the entire site.
 
 ## Getting Started
+
+
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
