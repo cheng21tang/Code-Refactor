@@ -9,13 +9,13 @@ Please visit https://github.com/cheng21tang/Code-Refactor to get a copy of the p
 
 ### Prerequisites
 
-Application requirements:
-    [Chrome](https://www.google.com/chrome/?brand=CHBD&brand=YTUH&geo=US&gclid=Cj0KCQjw0caCBhCIARIsAGAfuMzoKPZm0G8kzj0715gVY5J62pfCADuGpXMDU4xoS0VoeDcdF5Fy6KcaAjqtEALw_wcB&gclsrc=aw.ds)
-    [GitHub](https://github.com/)
-    [GitBash](https://git-scm.com/downloads)
-    [VS Code](https://code.visualstudio.com/download)
+Application requirements:<br>
+1. [Chrome](https://www.google.com/chrome/?brand=CHBD&brand=YTUH&geo=US&gclid=Cj0KCQjw0caCBhCIARIsAGAfuMzoKPZm0G8kzj0715gVY5J62pfCADuGpXMDU4xoS0VoeDcdF5Fy6KcaAjqtEALw_wcB&gclsrc=aw.ds)
+2. [GitHub](https://github.com/)
+3. [GitBash](https://git-scm.com/downloads)
+4. [VS Code](https://code.visualstudio.com/download)
 
-Install Chrome, GitBash, and VS Code on your machine. Then visit (https://github.com/) and sign-in/create an account.
+Install **Chrome**, **GitBash**, and **VS Code** on your machine. Then visit [GitHub](https://github.com/) and sign-in or create an account.
 
 ### Installing
 
@@ -23,7 +23,7 @@ After signing into [GitHub](https://github.com/) visit the link in **Getting Sta
 
 1. [GitHub](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) Cloning a respository
 
-
+![Clone in GitBash](GitBash-02.PNG)
 
 A step by step series of examples that tell you how to get a development env running
 
@@ -76,6 +76,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Hat tip to anyone whose code, libraries, packages, or UI was used
