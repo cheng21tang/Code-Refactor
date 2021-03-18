@@ -21,13 +21,13 @@ header h1 {
     font-size: 48px;
 }
 
-/* Changed color to darkgray for better contrast */
-header h1 .seo {
+/* Removed class 'header' and 'h1' and changed color to darkgray for better contrast for '.seo' and made it an 'id' */
+#seo {
     color: darkgray;
 }
 
-/* Identified 'div' as 'nav' */
-header nav {
+/* Removed class 'header' and identified 'div' as 'nav' */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,13 +35,17 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+/* Removed class 'header' and 'nav' */
+ul {
     list-style-type: none;
 }
 
-header nav ul li {
+/* Removed 'header', 'nav', and 'ul' class  */
+li {
     display: inline-block;
     margin-left: 25px;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 a {
@@ -53,7 +57,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* Change 'hero' to an 'id' */
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
