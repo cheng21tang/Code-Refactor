@@ -11,7 +11,8 @@
 <body>
   <div class="header">
     <h1>Hori<span class="seo">seo</span>n</h1>
-      <div>
+      <!-- Identified 'div' as 'nav' -->
+      <nav class="navbar">
           <ul>
             <li>
               <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -23,11 +24,12 @@
               <a href="#social-media-marketing">Social Media Marketing</a>
             </li>
           </ul>
-      </div>
+      </nav>
   </div>
 
   <div class="hero" alt="Four people working together around a desk"></div>
 
+  <!-- Updating 'div' to section or article for easier breakdown -->
   <section class="content">
     <article class="search-engine-optimization">
       <article class="image">
@@ -41,8 +43,8 @@
       </article>
     </article>
 
-    <div id="online-reputation-management" class="online-reputation-management">
-      <main class="image">
+    <article id="online-reputation-management" class="online-reputation-management">
+      <article class="image">
         <img src="./assets/images/online-reputation-management.jpg" alt="A person sitting at a laptop looking at a chart about reputation trending upwards" class="float-right" />
         <h2>Online Reputation Management</h2>
         <p>
@@ -50,12 +52,12 @@
           connection to say whatever they want about your business. Online Reputation Management gives you the control
           over what potential customers see when they search for your business.
         </p>
-      </main>
-    </div>
+      </article>
+    </article>
 
     <!-- Condensed CSS style to one class 'search-engine-optimization' -->
-    <div class="search-engine-optimization">
-      <main class="image">
+    <article class="search-engine-optimization">
+      <article class="image">
         <img src="./assets/images/social-media-marketing.jpg" alt="Various social media lingo like 'tweet, like, share' and other social media icons"class="float-left" />
         <h2>Social Media Marketing</h2>
         <p>
@@ -63,8 +65,8 @@
           which platforms are suited to your brand, using analytics to find the right markets and increase your lead
           generation.
         </p>
-      </main>
-    </div>
+      </article>
+    </article>
   </section>
 
   <div class="benefits">
