@@ -22,13 +22,13 @@ Install **Chrome**, **GitBash**, and **VS Code** on your machine. Then visit [Gi
 Not applicable
 
 
-## Built With
+### Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
-## References
+### References
 * [w3schools_accessibility](https://www.w3schools.com/html/html_accessibility.asp)
 * [w3schools_semantics](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [w3schools_syntax](https://www.w3schools.com/html/html5_syntax.asp)
@@ -38,24 +38,24 @@ Not applicable
 * [sitepoint_a-href](https://www.sitepoint.com/community/t/a-href-tag-not-working/6212)
 
 
-## Deployed Link
+### Deployed Link
 
 * [cheng21tang.github.io/Code-Refactor](https://cheng21tang.github.io/Code-Refactor/)
 
 
-## Authors
+### Authors
 
-* **CHENG TANG** 
+**CHENG TANG** 
 
 - [Link to Github](https://github.com/cheng21tang)
 - [Link to LinkedIn](https://www.linkedin.com/in/cheng-tang-0663211a3/)
 
 See also the list of [contributors](https://github.com/cheng21tang/Code-Refactor/graphs/contributors) who participated in this project.
 
-## License
+### License
 
 This project is licensed under the MIT License 
 
-## Acknowledgments
+### Acknowledgments
 
 * Hat tip to anyone whose code, libraries, packages, or UI that was used.
