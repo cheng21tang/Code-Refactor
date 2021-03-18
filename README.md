@@ -5,12 +5,12 @@ With accessibility being a meaningful but often neglected and underserved aspect
 ## Getting Started
 
 Please visit https://github.com/cheng21tang/Code-Refactor to get a copy of the project.
-- Clone a copy of the repository /Code-Refactor
+- Clone a copy of the repository **/Code-Refactor**
 
 ### Prerequisites
 
 Application requirements:
-    [Chrome] (https://www.google.com/chrome/?brand=CHBD&brand=YTUH&geo=US&gclid=Cj0KCQjw0caCBhCIARIsAGAfuMzoKPZm0G8kzj0715gVY5J62pfCADuGpXMDU4xoS0VoeDcdF5Fy6KcaAjqtEALw_wcB&gclsrc=aw.ds)
+    [Chrome](https://www.google.com/chrome/?brand=CHBD&brand=YTUH&geo=US&gclid=Cj0KCQjw0caCBhCIARIsAGAfuMzoKPZm0G8kzj0715gVY5J62pfCADuGpXMDU4xoS0VoeDcdF5Fy6KcaAjqtEALw_wcB&gclsrc=aw.ds)
     [GitHub](https://github.com/)
     [GitBash](https://git-scm.com/downloads)
     [VS Code](https://code.visualstudio.com/download)
@@ -18,6 +18,12 @@ Application requirements:
 Install Chrome, GitBash, and VS Code on your machine. Then visit (https://github.com/) and sign-in/create an account.
 
 ### Installing
+
+After signing into [GitHub](https://github.com/) visit the link in **Getting Started** [https://github.com/cheng21tang/Code-Refactor] and clone a copy of the repository using your SSH keys and GitBash.
+
+1. [GitHub](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) Cloning a respository
+
+
 
 A step by step series of examples that tell you how to get a development env running
 
