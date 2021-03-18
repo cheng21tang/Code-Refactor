@@ -19,18 +19,13 @@ Install **Chrome**, **GitBash**, and **VS Code** on your machine. Then visit [Gi
 
 ### Installing
 
-After signing into [GitHub](https://github.com/) visit the link in **Getting Started** [https://github.com/cheng21tang/Code-Refactor] and clone a copy of the repository using your SSH keys and GitBash.
-
-1. [GitHub](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) Cloning a respository
-
-![](assets/images/GitBash-02.PNG)
+Not applicable
 
 
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## References
@@ -63,4 +58,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used
+* Hat tip to anyone whose code, libraries, packages, or UI that was used.
