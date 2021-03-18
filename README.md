@@ -4,17 +4,18 @@ With accessibility being a meaningful but often neglected and underserved aspect
 
 ## Getting Started
 
-
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Please visit https://github.com/cheng21tang/Code-Refactor to get a copy of the project.
+- Clone a copy of the repository /Code-Refactor
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Application requirements:
+    [Chrome] (https://www.google.com/chrome/?brand=CHBD&brand=YTUH&geo=US&gclid=Cj0KCQjw0caCBhCIARIsAGAfuMzoKPZm0G8kzj0715gVY5J62pfCADuGpXMDU4xoS0VoeDcdF5Fy6KcaAjqtEALw_wcB&gclsrc=aw.ds)
+    [GitHub](https://github.com/)
+    [GitBash](https://git-scm.com/downloads)
+    [VS Code](https://code.visualstudio.com/download)
 
-```
-Give examples
-```
+Install Chrome, GitBash, and VS Code on your machine. Then visit (https://github.com/) and sign-in/create an account.
 
 ### Installing
 
