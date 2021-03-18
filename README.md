@@ -1,6 +1,6 @@
-# Code Refactor
+# Accessibility for All & Code Refactoring
 
-With accessibility being a meaningful but often neglected and underserved aspect of the internet Horiseon has made it a their mission to provide their services to **ALL** patrons. In this project of accessibility for all, we will be using the homepage as the foundation, and cascading it down to the entire site.
+With accessibility being a meaningful but often neglected and underserved aspect of the internet Horiseon has made it a their mission to provide their services to all patrons. In this project of <mark>**Accessibility for All**<mark>, we will be using the homepage as the foundation, and cascading it down to the entire site. In addition to this, we will doing some <mark>**code clean up**<mark>.
 
 ## Getting Started
 
