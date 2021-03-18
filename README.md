@@ -44,18 +44,17 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [cheng21tang.github.io/Code-Refactor](https://cheng21tang.github.io/Code-Refactor/)
 
 
 ## Authors
 
-* **YOUR NAME** 
+* **CHENG TANG** 
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Github](https://github.com/cheng21tang)
+- [Link to LinkedIn](https://www.linkedin.com/in/cheng-tang-0663211a3/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/cheng21tang/Code-Refactor/graphs/contributors) who participated in this project.
 
 ## License
 
