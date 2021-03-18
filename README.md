@@ -41,6 +41,14 @@ End with an example of getting some data out of the system or using it for a lit
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [w3schools](https://www.w3schools.com/html/html_accessibility.asp)
+* [w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* [w3schools](https://www.w3schools.com/html/html5_syntax.asp)
+* [w3schools](https://www.w3schools.com/css/css_navbar.asp)
+* [w3](https://www.w3.org/TR/selectors-3/#def-values)
+* [css-tricks](https://css-tricks.com/multiple-class-id-selectors/)
+* [sitepoint](https://www.sitepoint.com/community/t/a-href-tag-not-working/6212)
+
 
 ## Deployed Link
 
