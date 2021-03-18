@@ -23,7 +23,7 @@ After signing into [GitHub](https://github.com/) visit the link in **Getting Sta
 
 1. [GitHub](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) Cloning a respository
 
-![Clone in GitBash](GitBash-02.PNG)
+![](GitBash-02.PNG)
 
 A step by step series of examples that tell you how to get a development env running
 
